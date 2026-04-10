@@ -2,7 +2,7 @@ Consumer Trends Analysis
 
 Overview
 
-This project analyzes customer purchasing behavior and consumer trends using **Python**, **PostgreSQL (SQL)**, and **Power BI**. It showcases an end-to-end analytics workflow—from data cleaning to insight generation and dashboard visualization—to support data-driven business decisions.
+This project analyzes customer purchasing behavior and consumer trends using **Python**, **PostgreSQL (SQL)**, and **Power BI**. It showcases an end-to-end analytics workflow from data cleaning to insight generation and dashboard visualization—to support data-driven business decisions.
 
 
 Objectives
